@@ -8,6 +8,7 @@ terminal (or two terminals if the screen is big). That's all! Enjoy.
 ![screenshot](https://i.imgur.com/IuoRiXn.png)
 
 This is free and thus if you find it useful feed it!
+
 [1]: https://addons.mozilla.org/en-US/firefox/addon/custom-style-script/?src=search
 
 # Me:

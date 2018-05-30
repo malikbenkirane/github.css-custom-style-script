@@ -13,3 +13,11 @@
 div.file * {
   font-family: monospace;
 }
+
+code {
+  font-family: monospace;
+}
+
+pre, pre * {
+  font-family: monospace;
+}

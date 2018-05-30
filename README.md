@@ -10,7 +10,6 @@ Use case: read content on github.com in the browser side by side with at least a
 ![screenshot](https://imgur.com/QMnxaU4.png)
 
 [1]: https://addons.mozilla.org/en-US/firefox/addon/custom-style-script/?src=search
-[2]: https://cdn3.iconfinder.com/data/icons/budicon-chroma-ui/24/external-link-256.png =10x10
 
 # Me
 

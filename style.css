@@ -5,3 +5,11 @@
     width: 90vw;
   }
 }
+
+* {
+  font-family: sans-serif;
+}
+
+div.file * {
+  font-family: monospace;
+}
